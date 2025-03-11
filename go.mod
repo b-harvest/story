@@ -341,7 +341,7 @@ replace (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.4 => github.com/btcsuite/btcd/btcec/v2 v2.2.0
 
 	// temporary replace cometbft to b-harvest's cometbft to analyze the missing issue
-	github.com/cometbft/cometbft => github.com/b-harvest/cometbft v0.38.12-0.20250311202142-d3b2f7346637
+	github.com/cometbft/cometbft => github.com/b-harvest/cometbft v0.38.12-0.20250311205608-3a04212ff3fd
 
 	// Direct cosmos-sdk branch link: https://github.com/piplabs/cosmos-sdk/tree/piplabs/v0.50.10, current branch: piplabs/v0.50.10
 	github.com/cosmos/cosmos-sdk => github.com/piplabs/cosmos-sdk v0.50.10-piplabs-v1.1
